@@ -1,4 +1,4 @@
-﻿namespace PearlPineproject.Model
+﻿ /* namespace PearlPineproject.Model
 {
     public class orderModel
     {
@@ -17,3 +17,4 @@
         public DateTime OrderDate { get; set; } = DateTime.Now;
     }
 }
+ */

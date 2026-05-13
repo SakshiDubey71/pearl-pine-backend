@@ -1,4 +1,4 @@
-﻿namespace PearlPineproject.DTOs
+﻿/* namespace PearlPineproject.DTOs
 {
     public class VerifyOtpDto
     {
@@ -6,3 +6,4 @@
         public string Otp { get; set; }    
     }
 }
+*/

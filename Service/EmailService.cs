@@ -1,4 +1,4 @@
-﻿using MailKit.Net.Smtp;
+﻿ /* using MailKit.Net.Smtp;
 using MimeKit;
 
 namespace PearlPineproject.Service
@@ -32,4 +32,4 @@ namespace PearlPineproject.Service
         }
     }
 
-
+*/

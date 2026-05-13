@@ -1,4 +1,4 @@
-﻿namespace PearlPineproject.DTOs
+﻿/* namespace PearlPineproject.DTOs
 {
     public class LoginDto
     {
@@ -6,3 +6,4 @@
         public string Password { get; set; }
     }
 }
+*/

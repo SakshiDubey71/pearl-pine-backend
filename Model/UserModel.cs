@@ -1,4 +1,4 @@
-﻿namespace PearlPineproject.Model
+﻿/* namespace PearlPineproject.Model
 {
     public class UserModel
     {
@@ -18,3 +18,4 @@
 
 }
 
+*/
